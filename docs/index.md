@@ -16,7 +16,7 @@ The assignment task was to revise previously written code that would perform the
 
 # Proof of Work
 Script was developed with the knowledge learned in module 7.  The script was started from the Assignment07_starter file and built within the Pycharm program and additionally ran with the Windows command prompt.  I was able to find solutions for most code to transfer them to a function setup with the aid of the course material. The code was ran in both the command prompt and PyCharm and worked well.  The try and except function also displayed error codes appropriately, as the case when the user inputs a string when it is expecting an interger.  
-![Clip of Pycharm execution](https://github.com/pauls-pythonclass/IntrotoProg-Python-Mod07/blob/main/os%20run.PNG"Figure 1: Pycharm Execution")
+![Clip of Pycharm execution](https://github.com/pauls-pythonclass/IntrotoProg-Python-Mod07/blob/main/docs/pycharm%20run.JPG "Figure1: Pycharm Execution")
 Figure 1: Pycharm Execution(pickling, try & except)
 ```
 # ------------------------------------------------- #
@@ -91,14 +91,15 @@ while True:
 
 Figure 2: Clips from pycharm code
 
+![Pickled txt file](https://github.com/pauls-pythonclass/IntrotoProg-Python-Mod07/blob/main/docs/txtfilecapture.JPG "Figure 3: Pickled txt file")
+
 Figure 3: Updated pickled txt file from input 
 
+![command shell run](https://github.com/pauls-pythonclass/IntrotoProg-Python-Mod07/blob/main/docs/os%20run.PNG "Figure 4: command shell run")
 
 Figure 4: Executing properly within command prompt.
 
 	
-
-
 Summary
 As shown the code completed the task, albeit in a simplified manner.
 
